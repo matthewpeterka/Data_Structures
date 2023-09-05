@@ -1,0 +1,3 @@
+[submodule "binary_search_tree"]
+	path = binary_search_tree
+	url = git@github.com:matthewpeterka/Data_Structures.git
