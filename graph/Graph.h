@@ -106,6 +106,7 @@ class VisitedSet {
         const_iterator end() const { return s.end(); }
 };
 
+//use bfs
 void bfs(const Graph& graph, size_t start_vertex) {
     VisitedSet visited(graph.num_vertices());
     std::queue<size_t> q;
