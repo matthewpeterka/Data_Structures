@@ -3,7 +3,7 @@ If you've worked with pointers and dynamic memory, you've probably noticed that 
 
 For example:
 
-Method 1: Using pointers
+Method 1: Using pointers 
 ```cpp
 // Iterating through an array
 int* array = new int[5];
