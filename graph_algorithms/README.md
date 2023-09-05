@@ -4,7 +4,7 @@ In this assignment, the Graph data structure is provided. We also provide many h
 - Topological Sort
   - `computeIndegree`
   - `topologicalSort`
-- Dijkstra's Algorithm
+- Dijkstra's Algorithm 
   - `relax`
   - `dijkstrasAlgorithm`
 
