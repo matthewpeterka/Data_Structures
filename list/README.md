@@ -2,7 +2,7 @@
 In this assignment, you will program a Doubly Linked List class called `List` which parodies the [`std::list`](https://en.cppreference.com/w/cpp/container/list) class inherent to the Standard Template Library (STL) in C++.
 
 Topics:
-
+ 
 - Allocation (`new`) and Deallocation (`delete`)
 - Stack and Heap Memory
 - Bidirectional Iterators
