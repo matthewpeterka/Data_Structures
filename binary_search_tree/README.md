@@ -52,7 +52,7 @@ All keys should be compared using the strict partial order defined by the compar
 BinarySearchTree(); // Default Constructor
 ```
 
-**Description:** Constructs an empty Binary Search Tree.
+**Description:** Constructs an empty Binary Search Tree. 
 
 **Parameters**: *None*
 
