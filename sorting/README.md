@@ -9,7 +9,7 @@ git clone git@github.com:tamu-edu-students/leyk-csce221-assignment-sorting.git &
 ```
 
 Open the code in your editor of choice. For instance, if you use VS Code:
-```sh
+```sh 
 code .
 ```
 *Note:* On OSX you may need to enable the `code` command in VS Code with <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> and typing "shell command." You can select the option to install the command, and then the above command will work.
