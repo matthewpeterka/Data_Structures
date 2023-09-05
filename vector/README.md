@@ -13,7 +13,7 @@ The overall goal of this assignment is to begin programming data structures by i
 - [Implement the Vector's Iterator](#implement-the-vectors-iterator)
     
     - [You must implement the following functions for `iterator`](#you-must-implement-the-following-functions-for-iterator)
-    
+     
 - [One Last Function](#one-last-function)
 
 - [Further Reading](#further-reading)
